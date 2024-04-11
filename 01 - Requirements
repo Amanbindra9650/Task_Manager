@@ -1,1 +1,10 @@
+1. ID and textbox    ---- ID in <label> tag and textbox in <input> tag + type is "text"
+2. Name and textbox    ---- Name in <label> tag and textbox in <input> tag + type is "text"
+3. Description and textarea ---- Description in <label> tag and textarea in <input> tag + type attribute nahi hoga
+4. Date and date ---- Date in <label> tag and date in <input> tag + type is "date"
+5. Color and pallete ---- Color in <label> tag and color in <input> tag + type attribute nahi hoga
 
+Bootsrtap Classes : 
+div --- form-control
+label -- form-label
+input -- form-control
